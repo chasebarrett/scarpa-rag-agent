@@ -1,0 +1,527 @@
+[
+  {
+    "id": "70090/000",
+    "name": "Boostic R",
+    "category": "Climbing",
+    "subcategory": "Specialized Performance",
+    "season": [
+      "SS2025",
+      "SS2026"
+    ],
+    "tagline": "Edging Excellence.",
+    "description": "Back based on demand from the most technically proficient climbers. The Boostic is SCARPA's stiffest high-performance shoe for unmatched edging power and precision on the tiniest features. Features V-Tension Rand and full-length Vibram XS Edge outsole for ultimate support and micro-edging precision.",
+    "size": "35-45 (half sizes)",
+    "weight": "245g / 8.6oz (half pair size 41)",
+    "upper": "Microsuede + Eco Leather",
+    "midsole": "Flexan 1.0",
+    "outsole": "Vibram XS Edge (4.0mm)",
+    "last": "FZ – Highly Downturned, Highly Asymmetric",
+    "origin": "Italy",
+    "color": "Honey / White",
+    "use_case": "Technical bouldering, sport climbing, precision edging"
+  },
+  {
+    "id": "70073/000",
+    "name": "Chimera",
+    "category": "Climbing",
+    "subcategory": "Specialized Performance",
+    "season": [
+      "SS2025",
+      "SS2026",
+      "FW2024",
+      "FW2025"
+    ],
+    "description": "A highly technical slipper for advanced climbers demanding maximum sensitivity and precision on overhanging routes.",
+    "origin": "Italy"
+  },
+  {
+    "id": "70091/000",
+    "name": "Drago XT",
+    "category": "Climbing",
+    "subcategory": "Specialized Performance",
+    "season": [
+      "SS2025",
+      "SS2026"
+    ],
+    "tagline": "Pinnacle of Performance.",
+    "description": "The Drago XT adds a more powerful option to the Drago family. Dual Velcro straps for super secure fit and precision. PCB Tension delivers flexible power, full coverage rubber heel is laser etched with texture for ultimate heel hooking ability.",
+    "size": "35-45 (half sizes)",
+    "weight": "200g / 7.1oz (half pair size 41)",
+    "upper": "Microsuede",
+    "midsole": "Flexan 1.0",
+    "outsole": "Vibram XS Grip 2 (3.5mm)",
+    "last": "FZR – Highly Downturned, Highly Asymmetric",
+    "origin": "Italy",
+    "color": "Black / Iron",
+    "use_case": "Steep overhanging climbing, heel hooking, sport climbing"
+  },
+  {
+    "id": "70017/000",
+    "name": "Drago",
+    "category": "Climbing",
+    "subcategory": "Performance",
+    "season": [
+      "SS2025",
+      "SS2026",
+      "FW2024",
+      "FW2025"
+    ],
+    "description": "A precise, aggressive climbing slipper ideal for overhanging routes and bouldering. Velcro closure for quick adjustments.",
+    "origin": "Italy"
+  },
+  {
+    "id": "70629/000",
+    "name": "Drago LV",
+    "category": "Climbing",
+    "subcategory": "Performance",
+    "season": [
+      "SS2025",
+      "SS2026",
+      "FW2024",
+      "FW2025"
+    ],
+    "description": "Low-volume version of the Drago slipper for climbers with narrow feet seeking a precise, glove-like fit.",
+    "origin": "Italy"
+  },
+  {
+    "id": "70047/003",
+    "name": "Drago Kid",
+    "category": "Climbing",
+    "subcategory": "Youth Performance",
+    "season": [
+      "SS2025",
+      "SS2026",
+      "FW2024",
+      "FW2025"
+    ],
+    "description": "Youth version of the Drago slipper. Designed for young climbers developing technique on overhanging terrain.",
+    "origin": "Italy"
+  },
+  {
+    "id": "70007/000",
+    "name": "Furia Air",
+    "category": "Climbing",
+    "subcategory": "Specialized Performance",
+    "season": [
+      "SS2025",
+      "SS2026",
+      "FW2024",
+      "FW2025"
+    ],
+    "tagline": "Sensitivity Redefined.",
+    "description": "Continues to lead the way in climbing footwear with unmatched sensitivity and lightweight feel. Redesigned V-strap with Differentiated Tension System rand provides dynamic strength for maximum foot flexibility. Ideal for bouldering and both indoor and outdoor climbs.",
+    "size": "35-45 (half sizes)",
+    "weight": "160g / 5.6oz (half pair size 41)",
+    "upper": "Microsuede",
+    "midsole": "Flexan 1.0",
+    "outsole": "Vibram XS Grip2 (3.0mm)",
+    "last": "FZR – Highly Downturned, Highly Asymmetric",
+    "origin": "Italy",
+    "color": "Ice / Red",
+    "use_case": "Bouldering, indoor climbing, technical sport routes"
+  },
+  {
+    "id": {
+      "men": "70035/000",
+      "women": "70035/002"
+    },
+    "name": "Instinct",
+    "category": "Climbing",
+    "subcategory": "Performance",
+    "season": [
+      "SS2025",
+      "SS2026",
+      "FW2024",
+      "FW2025"
+    ],
+    "description": "The iconic Instinct lace offers a precise, high-performance fit for climbers seeking sensitivity and power across a range of climbing styles.",
+    "origin": "Italy"
+  },
+  {
+    "id": {
+      "men": "70013/000",
+      "women": "70013/002"
+    },
+    "name": "Instinct VS",
+    "category": "Climbing",
+    "subcategory": "Performance",
+    "season": [
+      "SS2025",
+      "SS2026",
+      "FW2024",
+      "FW2025"
+    ],
+    "description": "Velcro version of the Instinct. Quick-entry closure for gym sessions and multi-pitch routes requiring frequent shoe changes.",
+    "origin": "Italy"
+  },
+  {
+    "id": "70085/000",
+    "name": "Instinct VSR",
+    "category": "Climbing",
+    "subcategory": "Performance",
+    "season": [
+      "SS2025",
+      "SS2026",
+      "FW2024",
+      "FW2025"
+    ],
+    "description": "The Instinct VSR adds a rubber rand for enhanced durability and performance on overhanging terrain.",
+    "origin": "Italy"
+  },
+  {
+    "id": "70092/000",
+    "name": "Instinct VSR LV",
+    "category": "Climbing",
+    "subcategory": "Performance",
+    "season": [
+      "SS2025"
+    ],
+    "tagline": "Trust Your Instincts.",
+    "description": "Low-volume option for the Instinct family. Reduced volume toe box and instep with narrower heel. Features BI-Tension active rand, generous rubber toe patch, and Vibram Grip 2 rubber.",
+    "size": "35-47 (half sizes); 48 (whole size)",
+    "weight": "230g / 8.1oz (half pair size 41)",
+    "upper": "Microsuede",
+    "midsole": "Flexan 1.0",
+    "outsole": "Vibram XS Grip 2 (3.5mm)",
+    "last": "FJL – Moderately Downturned, Moderately Asymmetric",
+    "origin": "Italy",
+    "color": "Black / Violet"
+  },
+  {
+    "id": "70039/000",
+    "name": "Instinct S",
+    "category": "Climbing",
+    "subcategory": "Performance",
+    "season": [
+      "SS2025",
+      "SS2026",
+      "FW2024",
+      "FW2025"
+    ],
+    "description": "Slipper version of the Instinct for climbers who prefer a slip-on design with maximum foot sensitivity.",
+    "origin": "Italy"
+  },
+  {
+    "id": {
+      "men": "70074/000",
+      "women": "70074/002"
+    },
+    "name": "Vapor",
+    "category": "Climbing",
+    "subcategory": "All Day Performance",
+    "season": [
+      "SS2025",
+      "SS2026",
+      "FW2024",
+      "FW2025"
+    ],
+    "description": "A versatile, do-it-all climbing shoe. Reliable performance for any climbing style with a neutral, flat last.",
+    "origin": "Italy"
+  },
+  {
+    "id": {
+      "men": "70096/000",
+      "women": "70093/000"
+    },
+    "name": "Vapor V / LV",
+    "category": "Climbing",
+    "subcategory": "Performance",
+    "season": [
+      "SS2025",
+      "SS2026"
+    ],
+    "tagline": "Design Beyond Tradition.",
+    "description": "Perennial best-seller. The lower volume fit adapts well to narrower feet. Vibram XS Edge rubber underfoot balances support and sensitivity. The quiver-of-one climbing shoe.",
+    "size": {
+      "standard": "38-46 (half sizes); 47-50 (whole size)",
+      "LV": "35-42 (half sizes)"
+    },
+    "weight": {
+      "standard": "240g / 8.5oz (half pair size 41)",
+      "LV": "200g / 7.1oz (half pair size 38)"
+    },
+    "upper": "Microsuede + Fabric",
+    "midsole": "Flexan 1.0",
+    "outsole": {
+      "standard": "Vibram XS Edge (3.5mm)",
+      "LV": "Vibram XS Grip 2 (3.5mm)"
+    },
+    "last": {
+      "standard": "FR – Moderately Downturned, Moderately Asymmetric",
+      "LV": "FRW"
+    },
+    "origin": "Italy",
+    "color": {
+      "standard": "Smoke / Yellow",
+      "LV": "Smoke / Coral"
+    },
+    "use_case": "All-around climbing, sport climbing, gym use"
+  },
+  {
+    "id": {
+      "men": "70078/001",
+      "women": "70078/002"
+    },
+    "name": "Vapor S",
+    "category": "Climbing",
+    "subcategory": "All Day Performance",
+    "season": [
+      "SS2025",
+      "SS2026",
+      "FW2024",
+      "FW2025"
+    ],
+    "description": "Slipper version of the Vapor. Slip-on design for quick entry with the same reliable Vapor performance.",
+    "origin": "Italy"
+  },
+  {
+    "id": {
+      "men": "70063/000",
+      "women": "70063/002"
+    },
+    "name": "Generator Mid",
+    "category": "Climbing",
+    "subcategory": "All Day Performance",
+    "season": [
+      "SS2025",
+      "SS2026",
+      "FW2024",
+      "FW2025"
+    ],
+    "description": "A comfortable, all-day mid-top climbing shoe perfect for multi-pitch routes and crack climbing.",
+    "origin": "Italy"
+  },
+  {
+    "id": "70084/000",
+    "name": "Arpia V",
+    "category": "Climbing",
+    "subcategory": "Performance",
+    "season": [
+      "SS2025",
+      "SS2026",
+      "FW2024",
+      "FW2025"
+    ],
+    "description": "Velcro closure climbing shoe delivering powerful performance with easy on/off convenience.",
+    "origin": "Italy"
+  },
+  {
+    "id": "70087/000",
+    "name": "Arpia V LV",
+    "category": "Climbing",
+    "subcategory": "Performance",
+    "season": [
+      "SS2025",
+      "SS2026",
+      "FW2024",
+      "FW2025"
+    ],
+    "description": "Low-volume version of the Arpia V for climbers with narrow feet.",
+    "origin": "Italy"
+  },
+  {
+    "id": {
+      "men": "70065/001",
+      "women": "70065/002"
+    },
+    "name": "Veloce / Veloce L",
+    "category": "Climbing",
+    "subcategory": "All Day Performance",
+    "season": [
+      "SS2025",
+      "SS2026",
+      "FW2024",
+      "FW2025"
+    ],
+    "description": "A comfortable, entry-to-intermediate climbing shoe. Lace version (Veloce L) offers a more precise fit. Ideal for gym climbing and moderate outdoor routes.",
+    "origin": "Italy"
+  },
+  {
+    "id": {
+      "men": "70049/001",
+      "women": "70049/002"
+    },
+    "name": "Force",
+    "category": "Climbing",
+    "subcategory": "All Day Performance",
+    "season": [
+      "SS2025",
+      "SS2026",
+      "FW2024",
+      "FW2025"
+    ],
+    "description": "An entry-level climbing shoe with a comfortable fit for beginners and gym climbers.",
+    "origin": "Italy"
+  },
+  {
+    "id": {
+      "men": "70105/000",
+      "women": "70105/002"
+    },
+    "name": "Helix",
+    "category": "Climbing",
+    "subcategory": "All Day Performance",
+    "season": [
+      "SS2026"
+    ],
+    "tagline": "Classic Style, Reborn.",
+    "description": "The iconic Helix gets a refresh. Full length Vibram sole and extended lacing balance climbing performance and precision with multi-pitch comfort. From gym sessions to all-day trad routes, the versatile Helix will not disappoint.",
+    "size": {
+      "men": "39-47 (half sizes), 48-50 (whole sizes)",
+      "women": "35-42 (half sizes)"
+    },
+    "weight": {
+      "men": "235g / 8.3oz (half pair size 41)",
+      "women": "200g / 7.1oz (half pair size 38)"
+    },
+    "upper": "2.0mm Metal Free Suede",
+    "midsole": "Dynamic Flexan",
+    "outsole": "Vibram XS Edge (3.5mm)",
+    "last": {
+      "men": "FFA – Flat, Slightly Asymmetric",
+      "women": "EDA – Flat, Slightly Asymmetric"
+    },
+    "origin": "Romania",
+    "sustainability": [
+      "ECO Materials",
+      "2.0mm Metal Free Suede"
+    ],
+    "color": {
+      "men": "Shark / Midgray",
+      "women": "Silver / Midgray"
+    },
+    "use_case": "Multi-pitch trad, gym, all-day climbing"
+  },
+  {
+    "id": {
+      "men": "70107/000",
+      "women": "70107/002"
+    },
+    "name": "Helix V",
+    "category": "Climbing",
+    "subcategory": "All Day Performance",
+    "season": [
+      "SS2026"
+    ],
+    "tagline": "Classic Style, Reborn.",
+    "description": "Expanding on the super-popular Helix lace, the Helix V adds two opposing hook and loop straps for quick and easy yet secure closure. Perfect choice from gym sessions to days at the crag.",
+    "size": {
+      "men": "39-47 (half sizes), 48-50 (whole sizes)",
+      "women": "35-42 (half sizes)"
+    },
+    "weight": {
+      "men": "260g / 9.2oz (half pair size 41)",
+      "women": "220g / 7.8oz (half pair size 38)"
+    },
+    "upper": "2.0mm Metal Free Suede",
+    "midsole": "Nylon 1.4mm, Full Length",
+    "outsole": "Vibram XS Edge (3.5mm)",
+    "last": {
+      "men": "FFA – Flat, Slightly Asymmetric",
+      "women": "EDA – Flat, Slightly Asymmetric"
+    },
+    "origin": "Romania",
+    "sustainability": [
+      "ECO Materials"
+    ],
+    "color": {
+      "men": "Hyper Blue / Silver",
+      "women": "Crimson / Silver"
+    }
+  },
+  {
+    "id": {
+      "men": "70062/000",
+      "women": "70062/002"
+    },
+    "name": "Origin",
+    "category": "Climbing",
+    "subcategory": "All Day Performance",
+    "season": [
+      "SS2025",
+      "SS2026",
+      "FW2024",
+      "FW2025"
+    ],
+    "description": "A comfortable, flat-lasted climbing shoe ideal for beginners and long gym sessions. Lace closure for adjustable fit.",
+    "origin": "Romania"
+  },
+  {
+    "id": {
+      "men": "70109/000",
+      "women": "70083/002"
+    },
+    "name": "Origin VS",
+    "category": "Climbing",
+    "subcategory": "All Day Performance",
+    "season": [
+      "SS2026",
+      "FW2024",
+      "FW2025"
+    ],
+    "tagline": "Born to Boulder.",
+    "description": "Comfortable climbing shoe designed for modern indoor bouldering and sport climbing. Dual ply Microsuede upper with comfortable padded tongue and oversized Velcro strap. Massive rubber toe cap, full rubber heel coverage, and super sticky S72 outsole.",
+    "size": {
+      "standard": "38-46 (half sizes), 47-50 (whole sizes)",
+      "LV": "35-42 (half sizes)"
+    },
+    "weight": {
+      "standard": "230g / 8.1oz (half pair size 41)",
+      "LV": "200g / 7.1oz (half pair size 38)"
+    },
+    "upper": "Microsuede",
+    "midsole": "Dynamic Flexan",
+    "outsole": "SCARPA S-72 (4mm)",
+    "last": {
+      "standard": "FFA – Flat, Slightly Asymmetric",
+      "LV": "EDA – Flat, Slightly Asymmetric"
+    },
+    "origin": "Romania",
+    "color": {
+      "standard": "Light Gray / Red",
+      "LV": "White / Purple"
+    },
+    "use_case": "Indoor bouldering, sport climbing, gym sessions"
+  },
+  {
+    "id": {
+      "men": "70088/000",
+      "women": "70088/002"
+    },
+    "name": "Reflex VS",
+    "category": "Climbing",
+    "subcategory": "All Day Performance",
+    "season": [
+      "SS2025",
+      "SS2026",
+      "FW2024",
+      "FW2025"
+    ],
+    "tagline": "Elevate Your Experience.",
+    "description": "Designed with comfort, quality and value in mind. Soft, supple suede upper with stretch-knit instep panel for easy entry, breathability and volume adjustment. Dual microfiber straps for strong, secure closure. Sticky Vision rubber.",
+    "size": {
+      "men": "39-47 (half sizes); 48-50 (whole size)",
+      "women": "34-42 (half sizes)"
+    },
+    "weight": {
+      "men": "210g / 7.4oz (half pair size 41)",
+      "women": "185g / 6.5oz (half pair size 38)"
+    },
+    "upper": "Metal Free Suede + Knit Fabric",
+    "midsole": "Nylon 1.4mm, 3/4 Length",
+    "outsole": "Vision (4mm)",
+    "last": {
+      "men": "FFX – Flat, Slightly Asymmetric",
+      "women": "FFXW – Flat, Slightly Asymmetric"
+    },
+    "origin": "Vietnam",
+    "sustainability": [
+      "Metal Free Suede"
+    ],
+    "color": {
+      "men": "Tonic / Black",
+      "women": "Light Gray / Black"
+    },
+    "use_case": "All-day comfort climbing, gym, beginner to intermediate"
+  }
+]

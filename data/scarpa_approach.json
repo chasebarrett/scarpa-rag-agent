@@ -1,0 +1,169 @@
+[
+  {
+    "id": {
+      "men": "72697/350",
+      "women": "72697/352"
+    },
+    "name": "Rapid XT",
+    "category": "Approach",
+    "subcategory": "Approach",
+    "season": [
+      "SS2025",
+      "SS2026"
+    ],
+    "tagline": "The Approach Accelerator.",
+    "description": "A true technical hybrid — approach capable and trail ready. Vibram Megagrip sole provides friction and traction, while the suede upper and full perimeter rand deliver durable support and protection. Secure lacing delivers a comfortable yet precise fit.",
+    "size": {
+      "men": "40-47 (half sizes); 48 (whole size)",
+      "women": "37-42 (half sizes)"
+    },
+    "weight": {
+      "men": "400g / 14.1oz (half pair size 42)",
+      "women": "330g / 11.6oz (half pair size 38)"
+    },
+    "upper": "1.8mm Suede + Polyester Mesh",
+    "lining": "Polyester",
+    "insole": "TPU Insert",
+    "midsole": "2D EVA-CM",
+    "outsole": "Vibram Agility XT / Megagrip",
+    "last": {
+      "men": "ARSAX",
+      "women": "ARSAX"
+    },
+    "origin": "Vietnam",
+    "sustainability": [
+      "ECO Materials"
+    ],
+    "color": {
+      "men": "Taupe / Rust Orange",
+      "women": "Conifer / Sunny Lime"
+    },
+    "use_case": "Approach, trail running, technical terrain"
+  },
+  {
+    "id": {
+      "men": "72698/350",
+      "women": "72698/352"
+    },
+    "name": "Rapid LT",
+    "category": "Approach",
+    "subcategory": "Approach",
+    "season": [
+      "SS2025",
+      "SS2026"
+    ],
+    "tagline": "The Approach Accelerator.",
+    "description": "Approach capable and trail ready. The knit fabric upper and full perimeter rand deliver lightweight support and protection. Anatomic shape with secure lacing delivers a comfortable yet precise fit.",
+    "size": {
+      "men": "40-47 (half sizes); 48 (whole size)",
+      "women": "37-42 (half sizes)"
+    },
+    "weight": {
+      "men": "360g / 12.7oz (half pair size 42)",
+      "women": "300g / 10.6oz (half pair size 38)"
+    },
+    "upper": "Polyester Mesh + TPU Overlays",
+    "lining": "Polyester",
+    "insole": "TPU Insert",
+    "midsole": "2D EVA-CM",
+    "outsole": "Vibram Agility XT / Megagrip",
+    "last": {
+      "men": "ARSAX",
+      "women": "ARSAX"
+    },
+    "origin": "Vietnam",
+    "sustainability": [
+      "ECO Materials"
+    ],
+    "color": {
+      "men": "Anthracite / Gray",
+      "women": "Aqua / Aqua"
+    },
+    "is_new_color": true
+  },
+  {
+    "id": {
+      "men": "72696/200",
+      "women": "72696/202"
+    },
+    "name": "Rapid XT Mid GTX",
+    "category": "Approach",
+    "subcategory": "Approach",
+    "season": [
+      "SS2025",
+      "SS2026"
+    ],
+    "tagline": "The Approach Accelerator.",
+    "description": "Mid-cut approach shoe with GORE-TEX waterproof protection. Suede upper backed by GORE-TEX and full perimeter rand deliver durable, waterproof protection. Anatomic shape with secure lacing.",
+    "size": {
+      "men": "40-47 (half sizes); 48 (whole size)",
+      "women": "37-42 (half sizes)"
+    },
+    "weight": {
+      "men": "424g / 15.0oz (half pair size 42)",
+      "women": "360g / 12.7oz (half pair size 38)"
+    },
+    "upper": "1.8mm Suede + Polyester Mesh",
+    "lining": "GORE-TEX ePE (PFAS Compliant)",
+    "insole": "TPU Insert",
+    "midsole": "2D EVA-CM",
+    "outsole": "Vibram Agility XT / Megagrip",
+    "last": {
+      "men": "ARSAX",
+      "women": "ARSAX"
+    },
+    "origin": "Vietnam",
+    "sustainability": [
+      "ECO Materials"
+    ],
+    "color": {
+      "men": "Shark / Military",
+      "women": "Shark / Aqua"
+    }
+  },
+  {
+    "id": {
+      "men": "72053/350.8",
+      "women": "72053/352.8"
+    },
+    "name": "Crux",
+    "category": "Approach",
+    "subcategory": "Approach",
+    "season": [
+      "SS2025",
+      "SS2026",
+      "FW2024",
+      "FW2025"
+    ],
+    "tagline": "Technical Approach.",
+    "description": "SCARPA's most versatile and durable approach shoe with streamlined design. Best-selling Crux features full-coverage toe rand, sticky Vibram sole, and lace-to-toe design for ample support and protection on slabby scrambles, loose talus and rugged descents.",
+    "size": {
+      "men": "40-47 (half sizes); 48 (whole size)",
+      "women": "36-42 (half sizes)"
+    },
+    "weight": {
+      "men": "383g / 13.4oz (half pair size 42)",
+      "women": "326g / 11.4oz (half pair size 38)"
+    },
+    "upper": "1.8mm Suede",
+    "lining": "Recycled Polyester",
+    "insole": "70% Recycled Polypropylene",
+    "midsole": "2D EVA-MP",
+    "outsole": "Vibram Vertical Approach / Megagrip",
+    "last": {
+      "men": "BN",
+      "women": "BN"
+    },
+    "origin": "Vietnam",
+    "sustainability": [
+      "Recycled Polyester lining",
+      "70% Recycled Polypropylene insole"
+    ],
+    "color": {
+      "men": "Shark / Mustard",
+      "women": "Shark / Lavender"
+    },
+    "is_new_colors": true,
+    "use_case": "Scrambles, talus, approach to alpine routes"
+  }
+]
