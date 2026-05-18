@@ -86,3 +86,13 @@ scarpa-rag-agent/
     ├── workflow.png                      # Agent Builder screenshot
     └── scarpa_agent_architecture.svg     # Conceptual flow diagram
 ```
+
+---
+
+## Disclaimer
+
+This is a personal learning project built to explore RAG and agent workflow concepts. It is not affiliated with, endorsed by, or sponsored by SCARPA.
+
+Product names, descriptions, and specifications in `data/` are the intellectual property of SCARPA S.p.A. and are included here solely for educational and portfolio purposes. The product data is not licensed for redistribution or commercial use.
+
+The workflow design, architecture, and accompanying documentation are my own work.
