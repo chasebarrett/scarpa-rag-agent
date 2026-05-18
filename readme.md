@@ -10,7 +10,7 @@ The goal was to understand how agent workflows actually behave — RAG, prompt c
 
 Using ChatGPT's Agent Builder, I designed and tested a six-stage workflow:
 
-![Agent Builder workflow](assets/Workflow.png)
+![Agent Builder workflow](assets/workflow.png)
 
 The agent takes a natural-language question, routes it through an input guardrail, classifies it into one of six product categories, queries a category-specific vector database, runs an output guardrail check, and returns the answer.
 
