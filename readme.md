@@ -16,6 +16,8 @@ The agent takes a natural-language question, routes it through an input guardrai
 
 Conceptually:
 
+![Architecture](assets/scarpa_agent_architecture.svg)
+
 | Step | Component | What it does |
 |------|-----------|--------------|
 | 1 | Prompt entry | User submits a natural-language question |
