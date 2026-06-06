@@ -64,6 +64,8 @@ ChatGPT's Agent Builder is a workflow modeling and prototyping environment — n
 
 The conceptual goal was met when I could submit a prompt, watch it route through the classifier, hit the correct vector store, and return a validated answer. Further work would have produced diminishing returns against what I set out to learn.
 
+**Update — June 2026:** OpenAI has since announced it's winding down Agent Builder (along with Evals), with shutdown scheduled for November 30, 2026; it now points production workflows to the [Agents SDK](https://github.com/openai/openai-agents-python). That reinforces the reasoning above — Agent Builder was the right environment to *learn* these concepts, not to deploy them. The takeaways (RAG, classification, guardrails) are stack-agnostic and carry over to the SDK or any other orchestration layer.
+
 ---
 
 ## Stack
