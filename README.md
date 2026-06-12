@@ -1,14 +1,25 @@
 # SCARPA RAG Agent
+**Learning Project | Retrieval-Augmented Generation | ChatGPT Agent Builder**
 
-A hands-on learning project: a RAG (Retrieval-Augmented Generation) agent built in ChatGPT's Agent Builder that answers natural-language product questions across SCARPA's footwear lineup.
+A hands-on learning project: a **RAG (Retrieval-Augmented Generation)** agent built in **ChatGPT's Agent Builder** that answers natural-language product questions across SCARPA's footwear lineup.
 
-The goal was to understand how agent workflows actually behave — RAG, prompt classification, guardrails — by building one and watching it run, not by reading about them.
+The goal was to understand how agent workflows actually behave — **RAG, prompt classification, and guardrails** — by building one and watching it run, not by reading about them.
 
 ---
 
-## What I Built
+## Table of Contents
+- [What I Built](#-what-i-built)
+- [What I Took Away](#-what-i-took-away)
+- [Why I Stopped Here](#-why-i-stopped-here)
+- [Stack](#-stack)
+- [Repository](#-repository)
+- [Disclaimer](#-disclaimer)
 
-Using ChatGPT's Agent Builder, I designed and tested a six-stage workflow:
+---
+
+## 🧱 What I Built
+
+Using ChatGPT's Agent Builder, I designed and tested a **six-stage workflow**:
 
 ![Agent Builder workflow](assets/workflow.png)
 
@@ -29,7 +40,7 @@ Conceptually:
 
 SCARPA's product catalogs were converted into markdown and loaded into six separate vector stores — one per category — rather than a single combined index.
 
-### Product categories
+### Product Categories
 
 | Category | Example query |
 |----------|--------------|
@@ -42,7 +53,7 @@ SCARPA's product catalogs were converted into markdown and loaded into six separ
 
 ---
 
-## What I Took Away
+## 🧠 What I Took Away
 
 The architecture was the starting point. The interesting part was working through *why* it has to look that way.
 
@@ -58,7 +69,7 @@ The architecture was the starting point. The interesting part was working throug
 
 ---
 
-## Why I Stopped Here
+## 🛑 Why I Stopped Here
 
 ChatGPT's Agent Builder is a workflow modeling and prototyping environment — not a deployment platform. Pushing this past the build-and-test stage would have meant rebuilding the same workflow outside Agent Builder against a different stack, which would have been a deployment exercise rather than a learning one.
 
@@ -68,7 +79,7 @@ The conceptual goal was met when I could submit a prompt, watch it route through
 
 ---
 
-## Stack
+## 🔧 Stack
 
 | Tool | Purpose |
 |------|---------|
@@ -78,7 +89,7 @@ The conceptual goal was met when I could submit a prompt, watch it route through
 
 ---
 
-## Repository
+## 📁 Repository
 
 ```
 scarpa-rag-agent/
@@ -91,7 +102,7 @@ scarpa-rag-agent/
 
 ---
 
-## Disclaimer
+## 📄 Disclaimer
 
 This is a personal learning project built to explore RAG and agent workflow concepts. It is not affiliated with, endorsed by, or sponsored by SCARPA.
 
