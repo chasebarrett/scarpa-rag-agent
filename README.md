@@ -3,7 +3,7 @@
 
 A hands-on learning project: a **RAG (Retrieval-Augmented Generation)** agent built in **ChatGPT's Agent Builder** that answers natural-language product questions across SCARPA's footwear lineup.
 
-The goal was to understand how agent workflows actually behave — **RAG, prompt classification, and guardrails** — by building one and watching it run, not by reading about them.
+The goal was to understand how agent workflows actually behave — **RAG, prompt classification, guardrails** — by building one and watching it run, not by reading about them.
 
 ---
 
@@ -19,7 +19,7 @@ The goal was to understand how agent workflows actually behave — **RAG, prompt
 
 ## 🧱 What I Built
 
-Using ChatGPT's Agent Builder, I designed and tested a **six-stage workflow**:
+Using ChatGPT's Agent Builder, I designed and tested a six-stage workflow:
 
 ![Agent Builder workflow](assets/workflow.png)
 
@@ -40,7 +40,7 @@ Conceptually:
 
 SCARPA's product catalogs were converted into markdown and loaded into six separate vector stores — one per category — rather than a single combined index.
 
-### Product Categories
+### Product categories
 
 | Category | Example query |
 |----------|--------------|
